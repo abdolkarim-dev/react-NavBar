@@ -1,9 +1,9 @@
 <div align="center">
 
-# ⚛️ React Navbar Component
+# 🃏 React Card Component
 ### Reusable • Responsive • Clean UI
 
-<img src="./assets/preview.png" alt="Navbar Preview" width="80%" />
+<img src="./assets/preview.png" alt="Card Preview" width="80%" />
 
 <br/><br/>
 
@@ -19,18 +19,18 @@
 
 ## 📌 About The Component
 
-This project is a **reusable and responsive Navbar component** built with **React.js**.  
-It is designed to be easily integrated into any React application and follows **clean code** and **component-based architecture** best practices.
+This is a **reusable React Card component** built for displaying content in a **modern and responsive layout**.  
+Easily customizable and ready to integrate into any React application.
 
 ---
 
 ## ✨ Features
 
-- 📱 Fully responsive layout
-- 🧩 Reusable React component
-- 🎨 Clean and modern UI
-- ⚡ Lightweight & performant
-- 🔧 Easy customization
+- 🖼️ Responsive design  
+- 🧩 Reusable React component  
+- 🎨 Clean and modern UI  
+- ⚡ Lightweight & performant  
+- 🔧 Easy to customize with props
 
 ---
 
@@ -50,7 +50,7 @@ It is designed to be easily integrated into any React application and follows **
 ```bash
 ├── src
 │   ├── components
-│   │   └── Navbar.jsx
+│   │   └── Card.jsx
 │   ├── assets
 │   ├── styles
 │   └── App.jsx

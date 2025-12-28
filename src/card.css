@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+
+  padding: 0;
+}
+.all{
+     width: 20rem;
+     
+}
+.card-product {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.img-card {
+  width: 100%;
+}
+.title-card {
+}
+.price-card {
+  color: rgb(124, 120, 120);
+}
+.disk-card {
+}
+.btn-card {
+  background-color: black;
+  color: white;
+  padding: 10px 5cqmin;
+  font-size: 1.2rem;
+}

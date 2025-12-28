@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "./NavBar/navbar";
+ import Card from './card.js';
 
 function App() { 
-  return (
-   <Navbar />
+  return ( 
+    <Card />
   );
 }
 
